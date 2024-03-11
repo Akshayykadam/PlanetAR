@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5B65C19B-85BB-28CF-12EA-12FBF40586CB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Assets/Planets/Scripts/EnablePlanet.cs">
+    <Files>
+      <File FileName="Assets/Assets/materials/URP AR Shadow Receiver.shader" Line="24" Column="25" />
+      <File FileName="Assets/Assets/Planets/Scripts/EnablePlanet.cs" Line="8" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="692a0dce-2f4c-4af2-a9e6-d86498c734ca" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
